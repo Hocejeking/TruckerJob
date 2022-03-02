@@ -27,4 +27,4 @@ You can add, remove or change routes directly in the client script.
 Move the routes into the config file
 Integrate support for Qtarget
 Add multiple locations for starting a contract.
-Add [EN] localization
+Add EN localization
