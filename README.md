@@ -6,9 +6,9 @@
 
 
 # Dependencies
- Mystic-notify
- ESX
- LegacyFuel
+ Mystic-notify <br>
+ ESX <br>
+ LegacyFuel <br>
  
 
 # Installation 
@@ -18,13 +18,13 @@ Simply put all the files in your resource location and dont forget to add [ensur
 
 # personalization
 
-You can specify the payout in the config file.
+You can specify the payout in the config file. <br>
 You can add, remove or change routes directly in the client script.
 
 
 # TODO for the script
 
-Move the routes into the config file
-Integrate support for Qtarget
-Add multiple locations for starting a contract.
-Add EN localization
+Move the routes into the config file <br>
+Integrate support for Qtarget <br>
+Add multiple locations for starting a contract. <br>
+Add EN localization <br>
