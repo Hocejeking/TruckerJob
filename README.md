@@ -3,7 +3,7 @@
  a simple contract based job, for fivem RP. [ESX-extended]
 
  !!
- Currently only translated to czech, however you can change this yourself if got basic knowledge as there are very few notifications.
+ Currently only translated to czech, however you can change this yourself if you got basic knowledge as there are very few notifications.
 
 ## Dependencies
 
@@ -11,7 +11,7 @@
  ESX <br>
  LegacyFuel <br>
  
- It is very simple to use, as this script does not use the database, so anyone can set this up
+ It is very simple to use, as this script does not use the database, so anyone can set this up.
 
 ## Installation
 
